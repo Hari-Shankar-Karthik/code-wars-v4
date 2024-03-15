@@ -1,6 +1,6 @@
 from random import randint 
 
-name = 'sample4'
+name = 'scriptred'
 
 def moveTo(x , y , Pirate):
     position = Pirate.getPosition()
