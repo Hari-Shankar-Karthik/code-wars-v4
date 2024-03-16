@@ -1,8 +1,4 @@
 import random
-import math
-
-name = "script"
-
 
 def moveTo(x, y, Pirate):
     position = Pirate.getPosition()
@@ -61,13 +57,3 @@ def checkIsland(pirate):
         return True
     else:
         return False
-
-
-def ActPirate(pirate):
-    # complete this function
-    pass
-
-
-def ActTeam(team):
-    # complete this function
-    pass
