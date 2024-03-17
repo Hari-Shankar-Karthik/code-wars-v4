@@ -37,5 +37,5 @@
 
 ### What does a "Call to attack" mean?:
 - If the team signal reads "Ax", each S has a 50-50 chance of becoming an A (for island x) or a P.
-- If the team signal reads "Axy", each S has a 30-30-40 chance of becoming an A (for island x), an A (for island y) or a P.
+- If the team signal reads "Axy", each S has a 45-45-10 chance of becoming an A (for island x), an A (for island y), or a P.
 - If the team signal reads "Axyz", each S has a 33-33-33 chance of becoming an A for islands x, y and z.
