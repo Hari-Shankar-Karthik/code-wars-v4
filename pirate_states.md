@@ -8,7 +8,7 @@
 - S will always attempt to move outward from the deploy point.
 - If S reaches an island that is either neutral or belongs to the opponent, he becomes A.
 - If S finds that a particular island that belongs to the home team is currently being captured by the opponent, he becomes D.
-- If S finds on the team signal "Ax", there is a 50% chance that he becomes A and a 50% chance that he becomes P.
+- If S finds the call to attack on the team signal, there is a chance that he becomes of type A.
 
 ## Passive Scout (P):
 - The difference between S and P is that when there is a call to attack on the team signal, no P gets converted to A.
